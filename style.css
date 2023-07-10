@@ -1,0 +1,12 @@
+.pic{display: flex;
+   justify-content: center;
+}
+body{
+  background-color: #ffa500;
+}
+h1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: -6px;
+}
